@@ -1,1 +1,1 @@
-<img src="wpa.png">
+<img src="wpa1.png">
