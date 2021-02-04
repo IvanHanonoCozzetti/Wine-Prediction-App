@@ -1,4 +1,4 @@
-<img src="wpa.png" class="center">
+<img src="wpa.png">
 
 ### Source:
 *Forina, M. et al, PARVUS - An Extendible Package for Data Exploration, Classification and Correlation.
